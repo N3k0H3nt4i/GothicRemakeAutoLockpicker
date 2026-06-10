@@ -13,7 +13,7 @@
 2. Enter the lock name (optional)
 3. Use the buttons to set each plate's position:
    - `-3` = Far left
-   - `0` = Center (goal!)
+   - `0` = Center
    - `+3` = Far right
    - Or use `W`/`S` (switch plates) and `A`/`D` (move left/right)
 
