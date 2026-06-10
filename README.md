@@ -3,7 +3,7 @@
 
 ### Use the pre-built EXE (Windows only)
 
-1. Go to the [Releases page](https://github.com/your-username/Gothic-remake-1-auto-lockpick/releases)
+1. Go to the [Releases page]([https://github.com/your-username/Gothic-remake-1-auto-lockpick/releases](https://github.com/N3k0H3nt4i/GothicRemakeAutoLockpicker/releases))
 2. Download the latest `GothicRemakeLockpickSolver.exe`
 3. Double-click to run! No dependencies required!
 
